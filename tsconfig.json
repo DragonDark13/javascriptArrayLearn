@@ -2,13 +2,17 @@
   "compilerOptions": {
     "module": "commonjs",
     "target": "es6",
-    "sourceMap": false,
-    "outDir": "build"
+    "sourceMap": true,
+    "outDir": "build",
+    "noErrorTruncation": true,
   },
   "exclude": [
     "node_modules"
   ],
   "include": [
     "src/scripts/**/*"
-  ]
+  ],
+  "typeAcquisition": {
+    "include": ["node_modules/assert"]
+  }
 }
