@@ -1,0 +1,2 @@
+# javascriptArrayLearn
+learn typescript
