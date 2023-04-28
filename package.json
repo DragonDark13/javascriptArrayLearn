@@ -3,6 +3,12 @@
   "description": "typescript learn from game",
   "version": "1.0.0",
   "license": "ISC",
+  "keywords": ["typescript"],
+  "files": ["package.json","tsconfig.json",".gitignore","webpack.config.js"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DragonDark13/javascriptArrayLearn/tree/master"
+  },
   "dependencies": {
     "assert": "^2.0.0"
   },
