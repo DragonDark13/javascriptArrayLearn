@@ -1,0 +1,10 @@
+/node_modules/
+/.idea/.gitignore
+/.idea/git_toolbox_prj.xml
+/.idea/javascriptArrayLearn.iml
+/.idea/jsLibraryMappings.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+package-lock.json
